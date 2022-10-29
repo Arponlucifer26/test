@@ -1,0 +1,54 @@
+#aminatn_one{
+	width:100px;
+	height: 100px;
+	background: rebeccapurple;
+	position: relative;
+}
+
+#anim_one_btn{
+	position: relative;
+}
+
+#aminatn_two{
+	width:100px;
+	height: 100px;
+	background: cadetblue;
+	position: relative;
+}
+#aminatn_three{
+	width:100px;
+	height: 100px;
+	background: radial-gradient(#6876bd,#fa45bd);
+	position: relative;
+}
+
+#aminatn_threeo{
+	width:100px;
+	height: 100px;
+	background: radial-gradient(#6876bd,#fa45bd);
+	position: relative;
+}
+#aminatn_four{
+	width:100px;
+	height: 100px;
+	background: linear-gradient(#fd3423,#3463ba,#ef5467);
+	position: relative;
+}
+#aminatn_five{
+	width:100px;
+	height: 100px;
+	background: radial-gradient(aliceblue,goldenrod);
+	position: relative;
+}
+#aminatn_six{
+	width:100px;
+	height: 100px;
+	background: greenyellow;
+	position: relative;
+}
+#aminatn_seven{
+	width:100px;
+	height: 100px;
+	background: dodgerblue;
+	position: relative;
+}
