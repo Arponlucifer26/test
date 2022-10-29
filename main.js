@@ -120,10 +120,37 @@ $("#anim_threeo_btn").click(function(){
 
 
 
+/*4*/
+$("#anim_four_btn").click(function(){
+	$("#aminatn_four").animate({left: "300px",height:"+=20px",width:"+=20px"},2000);
+	
+});
+
+
+
+/*5*/
+
+$("$anim_five_btn").click(function(){
+	$("#aminatn_five").animate({transform: 'scale(0.3)'});
+
+});
 
 
 
 
+
+
+
+
+
+
+
+
+/* STOP */
+
+$("#slde_btn").click(function(){
+	$("#stp_size").hide(5000);
+});
 
 
 
