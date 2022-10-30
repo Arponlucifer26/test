@@ -149,7 +149,7 @@ $("$anim_five_btn").click(function(){
 /* STOP */
 
 $("#slde_btn").click(function(){
-	$("#stp_size").hide(5000);
+	$("#stp_size").stop();
 });
 
 
@@ -157,27 +157,23 @@ $("#slde_btn").click(function(){
 
 
 
+/*CALL BACK*/
+
+$("#cal_btn").click(function(){
+	$("#cale").hide('slow',function(){
+		alert("This is function in function");
+	});
+});
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+$("#hid_btn").click(function(){
+	$("#hid").hide(1000);
+	$("#sow").hide(1500);
+});
 
 
 
