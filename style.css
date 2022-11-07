@@ -83,6 +83,411 @@
 
 
 
+/*jQuery Traversing*/
+
+
+
+
+
+
+
+
+/*;;;;;;;;;;;;;;;;;;;;;;;  PARENTS   ;;;;;;;;;;;;;;*/
+
+
+
+
+#dolli_one{
+	height: 700px;
+	width: 700px;
+	background: red;
+
+	
+}
+
+
+#dolli_one #manoshi_one{
+	height: 600px;
+	width: 600px;
+	background: green;
+	
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+
+}
+
+#dolli_one #manoshi_one #arpon_one{
+	height: 500px;
+	width: 500px;
+	background: radial-gradient(cadetblue,dimgrey);
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+}
+
+
+#dolli_one #manoshi_one #arpon_one #shetu_one{
+	height: 400px;
+	width: 400px;
+	background: darkmagenta;
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+    
+}
+
+#dolli_one #manoshi_one #arpon_one #shetu_one #arnob_one{
+	height: 300px;
+	width: 300px;
+	background: red;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+/*..................  PARENT ................................*/
+
+
+
+#dolli_two{
+	height: 700px;
+	width: 700px;
+	background: red;
+
+	
+}
+
+
+#dolli_two #manoshi_two{
+	height: 600px;
+	width: 600px;
+	background: green;
+	
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+
+}
+
+#dolli_two #manoshi_two #arpon_two{
+	height: 500px;
+	width: 500px;
+	background: radial-gradient(cadetblue,dimgrey);
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+}
+
+
+#dolli_two #manoshi_two #arpon_two #shetu_two{
+	height: 400px;
+	width: 400px;
+	background: darkmagenta;
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+    
+}
+
+#dolli_two #manoshi_two #arpon_two #shetu_two #arnob_two{
+	height: 300px;
+	width: 300px;
+	background: red;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+/*'''''''''''''''''''''''''''''''' PARENTS UNTILL '''''''''''''''''''''''''''''''''''''''''''''''*/
+
+
+
+#dolli_three{
+	height: 700px;
+	width: 700px;
+	background: red;
+
+	
+}
+
+
+#dolli_three #manoshi_three{
+	height: 600px;
+	width: 600px;
+	background: green;
+	
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+
+}
+
+#dolli_three #manoshi_three #arpon_three{
+	height: 500px;
+	width: 500px;
+	background: radial-gradient(cadetblue,dimgrey);
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+}
+
+
+#dolli_three #manoshi_three #arpon_three #shetu_three{
+	height: 400px;
+	width: 400px;
+	background: darkmagenta;
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+    
+}
+
+#dolli_three #manoshi_three #arpon_three #shetu_three #arnob_three{
+	height: 300px;
+	width: 300px;
+	background: red;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*..........exprement with parent + parents + parentsUntill.............*/
+
+
+
+
+
+#dolli{
+	height: 700px;
+	width: 700px;
+	background: red;
+
+	
+}
+
+
+#dolli #manoshi{
+	height: 600px;
+	width: 600px;
+	background: green;
+	
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+
+}
+
+#dolli #manoshi #arpon{
+	height: 500px;
+	width: 500px;
+	background: radial-gradient(cadetblue,dimgrey);
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+}
+
+
+#dolli #manoshi #arpon #shetu{
+	height: 400px;
+	width: 400px;
+	background: darkmagenta;
+	 position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+    display: none;
+}
+
+#dolli #manoshi #arpon #shetu #arnob{
+	height: 300px;
+	width: 300px;
+	background: red;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
