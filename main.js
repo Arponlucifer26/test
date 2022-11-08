@@ -521,6 +521,78 @@ $("b").nextUntil("h2").css('color','pink');
 
 
 
+/* '''''''''''  first(), last(), eq(), filter() and not() filter() '''''''''''''''''*/
+
+
+
+
+/*>>>>>>>>>>>>>>>>>  first()   <<<<<<<<<<<<<<<<<<<<<<<<*/
+
+$("#first").first().css({"font-size":"22px","color":"red"});
+
+
+
+
+
+
+
+
+
+
+/*>>>>>>>>>>>>>>>>>   last()  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+
+$(".lastt").last().css({"background":"black","color":"white","font-weight":"800"});
+
+
+
+
+
+
+/*>>>>>>>>>>>>>>>>>   eq()  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+
+$(".equpment").eq(1).css({"background-color": "yellow","font-size": "200%"});
+
+
+
+
+
+/*>>>>>>>>>>>>>>>>>  filter (use class)  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+
+//$(".fltr").children(".flower").filter(".rose").css("color","red");
+
+
+
+
+
+
+/*>>>>>>>>>>>>>>>>>   not (use class)  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+
+$("p").not(".parag").css({"background":"black","color":"red"});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
